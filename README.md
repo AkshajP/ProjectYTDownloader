@@ -5,6 +5,9 @@ Features:
  - Download videos in different resolutions
  - Download highest bitrate audio
  - Download multiple of these in just one session
+ - Multiple downloads of a file with the same name as one in the videos folder get renamed to filename(i).ext for i'th file with the same name 
+ All downloads get saved to C:\Users\%USERNAME%\Videos (even audios)
+ 
  
  ### Making env and exe
  
